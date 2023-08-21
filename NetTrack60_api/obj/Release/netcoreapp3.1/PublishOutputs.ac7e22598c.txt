@@ -1,0 +1,8 @@
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\NetTrack60_api.exe
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\NetTrack60_api.dll
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\NetTrack60_api.deps.json
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\NetTrack60_api.runtimeconfig.json
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\NetTrack60_api.pdb
+D:\R&D Projects\NetTrack60_api\NetTrack60_api\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll

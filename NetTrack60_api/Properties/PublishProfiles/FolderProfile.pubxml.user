@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\R&amp;D Projects\NetTrack60_api\NetTrack60_api\bin\Release\netcoreapp3.1\publish\</_PublishTargetUrl>
+    <History>True|2022-07-20T12:28:01.5810599Z;True|2022-07-20T18:21:31.0057911+06:00;True|2022-07-20T18:21:26.7472420+06:00;True|2022-07-20T15:59:27.5984243+06:00;True|2022-07-20T15:57:52.4822502+06:00;True|2022-07-19T21:07:43.0604864+06:00;True|2022-07-19T18:44:18.8725412+06:00;True|2022-07-19T18:38:41.5499509+06:00;</History>
+  </PropertyGroup>
+</Project>
